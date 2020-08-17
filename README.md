@@ -1,5 +1,5 @@
 # Titanic-Disaster
-Install all the requied librarie
+Install all the requied libraries listed in req.txt file using pip install <library name>
 
 How to run:
 1) Install the code
